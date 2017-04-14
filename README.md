@@ -1,4 +1,4 @@
-# eslint-plugin-eslint-no-debug-enabled
+# eslint-plugin-no-debug-enabled
 
 Ensure you don't have debug enabled!
 
@@ -10,13 +10,13 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-eslint-no-debug-enabled`:
+Next, install `eslint-plugin-no-debug-enabled`:
 
 ```
-$ npm install eslint-plugin-eslint-no-debug-enabled --save-dev
+$ npm install eslint-plugin-no-debug-enabled --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-eslint-no-debug-enabled` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-no-debug-enabled` globally.
 
 ## Usage
 

@@ -1,13 +1,17 @@
 {
-  "name": "eslint-plugin-eslint-no-debug-enabled",
-  "version": "0.0.0",
+  "name": "eslint-plugin-no-debug-enabled",
+  "version": "0.0.1",
   "description": "Ensure you don't have debug enabled in production code",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "Jodi Warren",
+  "author": {
+    "name": "Jodi Warren",
+    "email": "jodi@jodiwarren.com"
+  },
+  "bugs": "https://github.com/JodiWarren/eslint-plugin-no-debug-enabled/issues",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
